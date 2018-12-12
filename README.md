@@ -1,2 +1,2 @@
 # AnalysisProjects
-Analysis Projects Conducted in the Graduate School
+Analysis Projects Conducted in a class/thesis
