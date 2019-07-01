@@ -12,6 +12,6 @@ Analysis Projects Conducted in a class/thesis
 
 ### CCTV - 범죄발생률 상관관계
 - Python
-- 공공데이터
+- 공공데이터포털 데이터 활용
 - CCTV와 범죄발생률의 상관관계
 - 피어슨상관관계 분석 / 시각화
