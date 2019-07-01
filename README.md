@@ -1,5 +1,5 @@
 # AnalysisProjects
-Analysis Projects Conducted in a class/thesis
+Analysis Projects Conducted with R/Python
 
 
 ### Stock Report
