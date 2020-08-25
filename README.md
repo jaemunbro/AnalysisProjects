@@ -1,5 +1,5 @@
 # Analysis Projects
-Analysis Projects with Python
+Analysis project done in the class of grad shcool
 
 ### CCTV - 범죄발생률 상관관계
 - Python
